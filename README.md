@@ -30,5 +30,7 @@
 
 ---
   ![Leetcode Stats](https://leetcard.jacoblin.cool/faritu23?theme=dark)
+  <br />
+  <br />
   <img align="center"  alt="Fatema's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faritu23&show_icons=true" />
 
